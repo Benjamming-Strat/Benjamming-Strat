@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**Benjamming-Strat/Benjamming-Strat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi There 
 - 🔭 I’m currently working on data analytics with python and kibana.
 - 🌱 I’m currently learning the elk stack
 - 👯 I’m looking to collaborate on data analytic challenges
